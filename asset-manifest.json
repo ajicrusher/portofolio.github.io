@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.18c476ba.css",
+    "main.js": "/static/js/main.39cb11c3.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Billboard.png": "/static/media/Billboard.58534c5901e79a090fce.png",
+    "static/media/Belakang.png": "/static/media/Belakang.7267e44da5ac4af8c8b5.png",
+    "static/media/DSC.JPG": "/static/media/DSC.268e4ec4acc47ca4e1f2.JPG",
+    "static/media/Sedekah bumi.png": "/static/media/Sedekah bumi.9fa3e7d7e60e9014ab9f.png",
+    "static/media/Karnaval.png": "/static/media/Karnaval.2d983faa25f70a8b3c75.png",
+    "static/media/Logo b.png": "/static/media/Logo b.5d3173268c523deab11b.png",
+    "static/media/Curriculum Vitae.pdf": "/static/media/Curriculum Vitae.c80d6ac5a607b835daf4.pdf",
+    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/Home.png": "/static/media/Home.2129215ca3129bb2f014.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.18c476ba.css.map": "/static/css/main.18c476ba.css.map",
+    "main.39cb11c3.js.map": "/static/js/main.39cb11c3.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18c476ba.css",
+    "static/js/main.39cb11c3.js"
+  ]
+}
